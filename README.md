@@ -13,8 +13,8 @@ output
 tools
 
 
-2、running train by 
-sh train.sh
+2、running train&test by 
+sh traintest.sh
 
 
 
